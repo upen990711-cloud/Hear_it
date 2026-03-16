@@ -1,4 +1,5 @@
-# Hear_it
+# Hear_it <img width="1280" height="1024" alt="Hear-It_Transparent" src="https://github.com/user-attachments/assets/cf6e8dc7-55ef-47ce-847e-28323cbd2cc5" />
+
 Hear It is a data analytics project that simulates the backend data environment of a modern music streaming platform. The project focuses on building a structured relational database, generating realistic streaming activity data, and performing analytical queries to understand user engagement, music popularity, and platform performance.
 
 The goal of this project is to demonstrate practical data analyst skills such as database design, SQL analytics, and data-driven insight generation.
