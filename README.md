@@ -25,3 +25,25 @@ The database structure includes primary keys, foreign key relationships, data va
 
 
 
+
+artists
+   │
+   ▼
+albums
+   │
+   ▼
+songs
+   │
+   ├ ─────────────► listening_history
+   │                   │
+   │                   ▼
+   │                 users
+   │
+   ▼
+playlist_songs
+   │
+   ▼
+playlists
+   
+   ▼
+users
